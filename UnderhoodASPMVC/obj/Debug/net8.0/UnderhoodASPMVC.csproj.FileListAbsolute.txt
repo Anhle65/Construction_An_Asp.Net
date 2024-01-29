@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\bin\Debug\net8.0\UnderhoodASPMVC.exe
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\bin\Debug\net8.0\UnderhoodASPMVC.deps.json
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\bin\Debug\net8.0\UnderhoodASPMVC.runtimeconfig.json
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\bin\Debug\net8.0\UnderhoodASPMVC.dll
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\bin\Debug\net8.0\UnderhoodASPMVC.pdb
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.dll
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\refint\UnderhoodASPMVC.dll
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.pdb
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\UnderhoodASPMVC.genruntimeconfig.cache
+C:\Users\Hoang\Desktop\Projects_student\CommercialWeb\UnderhoodASPMVC\obj\Debug\net8.0\ref\UnderhoodASPMVC.dll
